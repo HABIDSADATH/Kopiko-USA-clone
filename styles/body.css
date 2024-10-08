@@ -1,0 +1,105 @@
+.main-headline{
+  font-size: 44px;
+  letter-spacing: 5px;
+  font-family: "Playfair Display", serif;
+  cursor: pointer;
+}
+.main-headline:hover{
+  color: rgb(242, 74, 74);
+  transition: color 0.5s;
+}
+.headder{
+  margin-left: 600px;
+  color: rgb(183, 183, 183);
+  font-weight: 100;
+  position: relative;
+}
+.sub-main-headline{
+  letter-spacing: 5px;
+    text-transform: uppercase;
+    margin-left: -81px;
+    margin-top: -38px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
+hr {
+  border: none;
+  border-top: 0.01px solid  rgb(183, 183, 183);
+  width: 1418px;
+  margin-top: 49px;
+}
+.nav-bar{
+  margin-left: 387px;
+  box-sizing: border-box;
+  margin-top: 17px;
+  cursor: pointer;
+}
+.nav-bar a{
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 14px 20px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+
+}
+.nav-bar a:hover{
+  color: rgb(242, 74, 74);
+  transition: color 0.5s;
+}
+.coffee-head{
+  color: white;
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+  font-size: 42px;
+  margin-left: 636px;
+  margin-top: 120px;
+}
+.img-coffee{
+  width:872px ;
+  margin-left: 314px;
+  margin-top: 40px;
+}
+.site-captions{
+  color: rgb(122, 122, 122);
+  font-family: "Roboto", sans-serif;
+}
+.Real-coffee{
+  font-size: 20px;
+  margin-left: 649px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+.Our-coffee{
+  margin-left: -17px;
+  font-size: 19px;
+  margin-top: 47px;
+  text-align: center;
+}
+.understanding-coffee{
+    font-size: 20px;
+    margin-left: 669px;
+    font-weight: 700;
+    padding-top: 16px;
+}
+ul{
+  list-style-type: disc;
+  margin-left: 155px;
+  font-size: 18px;
+  padding-top: 25px;
+}
+li{
+  margin-bottom: 23px;
+}
+
+.last-images{
+  padding-left: 50px;
+  padding-left: 213px;
+  padding-top: 7px;
+}
+.last-images img{
+  padding: 50px;
+}
+.line-div{
+  
+}
